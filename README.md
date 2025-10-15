@@ -56,7 +56,7 @@ See the [`tools/`](./tools/) folder for complete installation and setup guides:
 
 ## 📺 Watch the Series
 
-🎥 YouTube Playlist → [Watch Here] :  https://www.youtube.com/watch?v=s0DxLYP0ASE&list=PLgt-v47ixLfIVPPOKk1o7paM881qJ8N3L
+🎥 YouTube Playlist → Watch Here :  https://www.youtube.com/watch?v=s0DxLYP0ASE&list=PLgt-v47ixLfIVPPOKk1o7paM881qJ8N3L
 
 ---
 
@@ -75,11 +75,11 @@ See the [LICENSE](./LICENSE) file for details.
 ---
 
 ## 🌟 Stay Connected
-
+## **@rebwar_ai**
 ⭐ Star this repository to support the project  
 💬 Share it with others who want to master embedded systems  
 📺 Subscribe to the channel for new videos and updates  
-👉 [https://youtube.com/@YourChannelName](https://youtube.com/@YourChannelName)
+👉 https://www.youtube.com/@rebwar_ai
 
 ---
 
