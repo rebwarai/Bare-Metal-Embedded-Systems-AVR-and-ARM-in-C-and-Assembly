@@ -1,4 +1,7 @@
 # **@rebwar_ai**
+---
+## youtube series: https://www.youtube.com/watch?v=s0DxLYP0ASE&list=PLgt-v47ixLfIVPPOKk1o7paM881qJ8N3L 
+---
 # 🔧 Installing ARM & AVR Toolchains + avrdude & bossac (Windows, macOS, Linux)
 
 This guide covers installing **ARM GCC**, **AVR GCC**,**avrdude** and **bossac** on all major operating systems.  
