@@ -46,7 +46,7 @@ Basically, you’ll have the skills to bring your **own electronics to life.**
 
 ## 🛠️ Tools & Setup
 
-See the [`tools/`](./tools/) folder for complete installation and setup guides:
+See the [`00-intro/`](./00-intro/) folder for complete installation and setup guides:
 - AVR & ARM GCC toolchains  
 - avrdude and bossac flashing tools  
 - Building with Makefiles  
