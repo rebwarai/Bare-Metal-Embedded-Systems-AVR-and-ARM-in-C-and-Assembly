@@ -1,8 +1,10 @@
-#Youtube Channel : **@rebwar_ai**
-
-##link : https://www.youtube.com/@rebwar_ai
+# ⚡ How to Read The Datasheets and Write The C Code for The Arduino Mega Board (ATmega2560)
 ---
-##Here’s the link to this episode : https://youtu.be/MhPqwHJKYCY?si=e916EE031tDPrRJZ
+## 🎥 Youtube Channel : **@rebwar_ai**
+
+##  link : https://www.youtube.com/@rebwar_ai
+---
+## 📺 Here’s the link to this episode: https://youtu.be/pKOHmZJs7Q8?si=BAurccWtUhuLx3zS
 ---
 
 In this episode, we dive into bare-metal embedded systems programming — starting completely from scratch with the ATmega2560 AVR microcontroller.
