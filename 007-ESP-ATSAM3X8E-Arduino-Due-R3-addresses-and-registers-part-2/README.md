@@ -1,4 +1,4 @@
-## ⚡ ATSAM3X8E ARM Cortex-M3 (Arduino Due R3) addresses and registers part-2
+# ⚡ ATSAM3X8E ARM Cortex-M3 (Arduino Due R3) addresses and registers part-2
 ---
 ## 🎥 Youtube Channel : @rebwar_ai
 ## link : https://www.youtube.com/@rebwar_ai
