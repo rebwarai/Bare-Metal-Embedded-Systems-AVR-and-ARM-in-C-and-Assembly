@@ -1,0 +1,10 @@
+
+🛠️ How to Build and Flash It
+🔧 Step 1: Assemble ::
+    avr-as -mmcu=atmega2560 -o blink.o blink.asm
+🔧 Step 2: Link ::
+    avr-ld -m avr6 -Ttext=0x0000 -o blink.elf blink.o
+🔧 Step 3: Convert to HEX ::
+    avr-objcopy -O ihex blink.elf blink.hex
+🔧 Step 4: Flash to ATmega2560 ::
+    avrdude -D -p atmega2560 -c wiring -P COM4 -b 115200 -U flash:w:blink.hex
