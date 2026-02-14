@@ -7,7 +7,7 @@
 ## 🎬  Bare-Metal Embedded Systems (AVR & ARM) in C & Assembly – Arm Cortex-M3 startup file / init memory
 ## 📺 Here’s the link to this episode: https://www.youtube.com/watch?v=BDFHZTzk-AQ&t=33s
 ---
-## 010-ESP-ATSAM3X8E-Arduino-Due-R3- startup-file-init-memory
+## 010 ESP ATSAM3X8E Arduino Due R3  startup file init memory
 
 🧠 Ever wondered what really happens when a Cortex-M microcontroller resets?
 In this video, we build a minimal startup file for the ATSAM3X8E completely from scratch — no libraries, no CMSIS.
