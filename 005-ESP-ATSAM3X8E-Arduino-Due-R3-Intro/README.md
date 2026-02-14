@@ -1,8 +1,8 @@
 # ⚡ ATSAM3X8E ARM Cortex-M3 (Arduino Due R3) Intro
-# ---
+---
 # 🎥 Youtube Channel : @rebwar_ai
 # link : https://www.youtube.com/@rebwar_ai
-## --
+---
 # 📺 Here’s the link to this episode: https://www.youtube.com/watch?v=l67zNIXGOSw&t=145s
 ---
 ## In this episode of the Bare-Metal Programming Series, we introduce the ATSAM3X8E ARM Cortex-M3 microcontroller used on the Arduino Due R3
