@@ -4,7 +4,7 @@
 ## link : https://www.youtube.com/@rebwar_ai
 ---
 ## 🎬  Bare-Metal Embedded Systems (AVR & ARM) in C & Assembly – Arm Cortex-M3 Registers and Addresses p1
-## 📺 Here’s the link to this episode: https://youtu.be/pKOHmZJs7Q8?si=BAurccWtUhuLx3zS
+## 📺 Here’s the link to this episode: https://youtu.be/2jY8UVpNUaM?si=GumaN6cQMqgJVrIX
 
 🔧 Defining Register Addresses (ATSAM3X8E) | Part 1
 🚀 In this episode, we dive deep into ARM Cortex-M3 bare-metal programming by manually defining register addresses and bitfields for the ATSAM3X8E — no HALs, no libraries, just pure hardware control.
