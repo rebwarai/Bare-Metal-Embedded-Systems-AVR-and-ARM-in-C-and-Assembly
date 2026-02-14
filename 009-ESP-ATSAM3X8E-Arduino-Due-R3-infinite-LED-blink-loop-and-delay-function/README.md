@@ -3,7 +3,7 @@
 ## 🎥 Youtube Channel : @rebwar_ai
 ## link : https://www.youtube.com/@rebwar_ai
 ---
-## 🎬  Bare-Metal Embedded Systems (AVR & ARM) in C & Assembly – Arm Cortex-M3 Registers and Addresses p2
+## 🎬  Bare-Metal Embedded Systems (AVR & ARM) in C & Assembly – Arm Cortex-M3 infinite LED blink loop and delay function
 ## 📺 Here’s the link to this episode: https://youtu.be/3Oz1I2FpQMQ?si=w0uYMmjFiZUAMsR6
 ---
 
