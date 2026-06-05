@@ -31,7 +31,7 @@ static inline void delay_ms(uint16_t ms)
     {
         for (uint16_t j = 0; j < DELAY_COUNT; ++j)
         {
-            __asm__ __voltaile__("nop");
+            __asm__ __volatile__("nop");
         }
     }
 }
